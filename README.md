@@ -3,4 +3,5 @@ The aim of this project is to rebuild a web scraping related to get flight ticke
 
 
 ### Diagram of the scraping
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2eae9ada-0878-48fb-8119-72ef04a3b8a0)
+
